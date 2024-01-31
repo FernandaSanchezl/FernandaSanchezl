@@ -1,16 +1,16 @@
-### Hi there 👋
+# ¡Hola! Soy Fernanda Sanchez 👋
 
-<!--
-**FernandaSanchezl/FernandaSanchezl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Apacionada por la tecnología y el desarrollo. 
 
-Here are some ideas to get you started:
+## 🚀 Acerca de Mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Profesión:** Ingeniera en software (en proceso)
+- **Correo Electrónico:** mf.sanchez239@gmail.com
+
+
+## 📫 Contacto
+Puedes encontrarme en:
+
+- [LinkedIn](https://www.linkedin.com/in/fernandasanchezl/)
+- [Instagram](https://www.instagram.com/fernanda_sanchez_l/?hl=es)
+
