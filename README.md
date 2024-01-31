@@ -8,9 +8,5 @@ Apacionada por la tecnología y el desarrollo.
 - **Correo Electrónico:** mf.sanchez239@gmail.com
 
 
-## 📫 Contacto
-Puedes encontrarme en:
 
-- [LinkedIn](https://www.linkedin.com/in/fernandasanchezl/)
-- [Instagram](https://www.instagram.com/fernanda_sanchez_l/?hl=es)
 
