@@ -22,6 +22,6 @@ Apacionada por la tecnología y el desarrollo.
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=FernandaSanchezl&theme=onedark)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=tokyonight)
+[![trophy](https://github-profile-trophy.vercel.app/?username=FernandaSanchezl&theme=onedark)](https://github-profile-trophy.vercel.app/?username=FernandaSanchezl-ma&theme=tokyonight)
 
 
