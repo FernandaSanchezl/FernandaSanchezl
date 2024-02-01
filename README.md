@@ -21,5 +21,5 @@ Apacionada por la tecnología y el desarrollo.
 <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
 
 
-
+[https://github-profile-trophy.vercel.app/?username=kittinan&theme=onedark(https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula)]
 
