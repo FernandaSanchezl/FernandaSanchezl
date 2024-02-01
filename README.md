@@ -1,4 +1,5 @@
-<img align='right' src='[https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Ftoothless-stickers&psig=AOvVaw0AVTyYx62RHOgqQ_8ByUeR&ust=1706894395957000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNDW4KLTioQDFQAAAAAdAAAAABAh)https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Ftoothless-stickers&psig=AOvVaw0AVTyYx62RHOgqQ_8ByUeR&ust=1706894395957000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNDW4KLTioQDFQAAAAAdAAAAABAh' width='200'>
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+<div class="tenor-gif-embed" data-postid="16836005182890693702" data-share-method="host" data-aspect-ratio="1.2029" data-width="100%"><a href="https://tenor.com/view/toothless-dancing-dance-dragon-party-gif-16836005182890693702">Toothless Dancing Sticker</a>from <a href="https://tenor.com/search/toothless-stickers">Toothless Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 # ¡Hola! Soy Fernanda Sanchez 👋
 
 Apacionada por la tecnología y el desarrollo. 
