@@ -22,5 +22,5 @@ Apacionada por la tecnología y el desarrollo.
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kittinan&theme=onedark)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula)
+[![trophy](https://github.com/FernandaSanchezl)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula)
 
